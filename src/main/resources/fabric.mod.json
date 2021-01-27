@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Undaunted Adventures",
-  "description": "An adventure mod for minecraft, fight bosses, acquire loot!",
+  "description": "An adventure mod for minecraft, fight big bosses, acquire big loot!",
   "authors": [
     "TLClassless",
     "Sixteen10"
@@ -20,7 +20,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "tlclassless.undaunted.adventures.undauntedAdventures"
+      "tlclassless.undaunted.adventures.UndauntedAdventures"
     ]
   },
   "mixins": [
